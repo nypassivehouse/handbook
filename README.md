@@ -1,2 +1,7 @@
-# handbook
-Public information for NYPH staff, board, members, and friends.
+# Welcome to the NYPH Handbook
+
+## What is this?
+
+## About NYPH
+
+## Documents

@@ -1,3 +1,7 @@
+> This document may incorprate suggested edits that have NOT yet been adopted by the barod of directors.
+> Current by-laws are available on the NYPH website.
+> Members wishing to suggest changes should [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+
 # BY-LAWS OF NEW YORK PASSIVE HOUSE INC. (NYPH) (Not-For-Profit Corporation)
 
 ## ARTICLE I - NAME & PURPOSE

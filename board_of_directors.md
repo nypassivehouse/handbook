@@ -63,7 +63,7 @@ Jose Sosa
 
 ### All Current and Past Directors
 
-Alphabetic order by last name
+Alphabetic order by last name. **This list is incomplete. It will be updated**
 
 | Full Name | Office |	Employer | Term |
 | --- | --- | --- | --- |

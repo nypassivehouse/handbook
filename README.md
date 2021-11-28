@@ -27,7 +27,7 @@ Version control enables [collaborative editing](https://en.wikipedia.org/wiki/Co
 ### By-Laws
 
 * [NYPH Current By-Laws](https://www.nypassivehouse.org/wp-content/uploads/2016/12/101205-NYPH-bylaws.pdf)
-* NYPH By-Laws with proposed changes
+* ["Live" By-Laws with proposed changes](./by_laws_with_live_edits.md)
 
 ### Board of Directors
 

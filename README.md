@@ -35,13 +35,13 @@ This section will evolve as we discuss what to make public vs. keep private.
 
 #### Public Documents
 
-* List of Board of Directors with their term(s) of service
+* [List of Board of Directors](./board_of_directors.md#current-and-past-directors) with their term(s) of service
 * Current [Board Members bios](https://www.nypassivehouse.org/board-members-team/) are available on the NYPH website.
 * [NYPH's board member contract](link to come) summarizes the mutual responsibilities of the board and NYPH. 
 Each board member signs this contract on joining.
 
 #### Private Board Documents
 
-Some board documents are not open to public view.
-Documents are kept private when making them public would adversely affect the board's ability to carry out its duties
-or if it would infringe on the privacy of individuals.
+Most board documents are currently not accessible to the public. 
+This may change as the board tackles transparency as a matter of governance.
+

@@ -379,13 +379,9 @@ Stas
 No minutes found.
 
 ## 2011 
-### 2011 Fourth Quarter
-### 2011 Third Quarter
-### 2011 Second Quarter
-### 2011 First Quarter
+
+No board meeting minutes exist for 2011.
 
 ## 2010 
-### 2010 Fourth Quarter
-### 2010 Third Quarter
-### 2010 Second Quarter
-### 2010 First Quarter
+
+New York Passive House Inc. registered as domestic not-for-profit corp. on JUNE 28, 2010.

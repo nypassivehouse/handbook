@@ -56,7 +56,7 @@ vote of NYPH’s members.
 ~~~
 
 1. **How many directors are there?** <br />
-There are currently **13 directors**. _Per Sept. 16, 2020 board resolution_
+There are currently **13 directors**.
 
 1. **How long do directors serve?** <br />
 Directors serve 2-year terms, which begin with the 4th quarter board meeting in the year of election.

@@ -233,26 +233,94 @@ Proposal to Affiliates, dated April 22nd 2017.
 
 No resolutions recorded.
 
-## 2016 
+## 2016
+
 ### 2016 Fourth Quarter
+
+No resolutions recorded.
+
 ### 2016 Third Quarter
+
+No resolutions recorded.
+
 ### 2016 Second Quarter
+
+No resolutions recorded.
+
 ### 2016 First Quarter
 
+No resolutions recorded.
+
 ## 2015 
+
 ### 2015 Fourth Quarter
+
+Undated minutes for 10/16/15 meeting:
+
+1. Resolution adopting a **Director's Contract of Responsibilities**: <br />
+~~~
+Board of Directors Contract of Responsibilities 
+Not a legally binding document – can leave or be asked to step down at any time
+Vote = Passed – document officially approved 
+
+All resolutions should be entered and catalogued onto website 
+~~~
+
+1. Resolution regarding **Affiliation with BEEx**: <br />
+~~~
+Vote = Passed – document officially approved with additional one-year reevaluation clause 
+Ten in favor; One opposed (Floris)
+~~~
+
 ### 2015 Third Quarter
+
+No resolutions recorded.
+
 ### 2015 Second Quarter
+
+No resolutions recorded.
+
 ### 2015 First Quarter
 
-## 2014 
+No resolutions recorded.
+
+## 2014
+
 ### 2014 Fourth Quarter
+
+No resolutions recorded.
+
 ### 2014 Third Quarter
+
+No minutes found.
+
 ### 2014 Second Quarter
+
+No minutes found.
+
 ### 2014 First Quarter
 
-## 2013 
+- No resolutions were discussed or voted on (3/18/2014 minutes)
+- No resolutions were discussed or voted on (1/28/2014 minutes)
+
+## 2013
+
 ### 2013 Fourth Quarter
+
+As reflectd in the minutes of the Oct 15, 2013 meeting:
+
+1. A Resolution to **remove supporting membership**:<br />
+~~~
+Resolution 1: To remove category of supporting membership from the bylaws. 7 voted
+to approve. 0 opposed. It was approved. By‐laws to be amended accordingly.
+~~~
+
+1. A Resolution to **allow electronic voting for elections**:<br />
+~~~
+Resolution 2: To conduct electronic voting for board member elections. 7 voted to
+approve. 0 opposed. It was approved.
+~~~
+
 ### 2013 Third Quarter
 ### 2013 Second Quarter
 ### 2013 First Quarter

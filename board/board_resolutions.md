@@ -322,14 +322,61 @@ approve. 0 opposed. It was approved.
 ~~~
 
 ### 2013 Third Quarter
+
+No minutes found.
+
 ### 2013 Second Quarter
+
+No resolutions recorded.
+
 ### 2013 First Quarter
 
-## 2012 
+No minutes found.
+
+## 2012
+
 ### 2012 Fourth Quarter
+
+No minutes found.
+
 ### 2012 Third Quarter
+
+No minutes found.
+
 ### 2012 Second Quarter
+
+As reflected in the minutes of the 6/12/12 meeting:
+
+Regarding **number and term of board directors**:<br />
+~~~
+Formation of expanded Board
+A. The newly elected Board met for their first meeting. All 13 candidates were unanimously elected
+to the Board by attendees of the NYPH Membership Meeting earlier in the evening.
+B. The Board determined that membership will be limited to two consecutive terms for a
+maximum of (4) years. After (1) year, former members may once again run for a Board position.
+C. For the sake of continuity during membership transitions, half of the Board will serve a full (2)-
+year term and half will serve an initial (1) year term, as follows:
+
+Two Year Term:
+Stephanie
+Andreas
+Ben
+Floris
+Ken
+
+One Year Term:
+Lois
+Greg
+Dominik
+Stefan
+Jeremy
+Emily Chris
+Stas
+~~~
+
 ### 2012 First Quarter
+
+No minutes found.
 
 ## 2011 
 ### 2011 Fourth Quarter

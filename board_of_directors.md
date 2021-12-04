@@ -39,18 +39,39 @@ The NYPH board holds the following additional responsibilties:
 ## Serving on the Board of Directors
 
 1. **How do members become directors?** <br />
-Prospective directors may self-nominate or be nominated by a current director.<br />
-All self-nominated prospective directors stand for a preliminary election by the membership.<br />
-The board proposes a slate of new directors to be elected by the members at the annual meeting.<br />
+Prospective directors may self-nominate or be nominated by a current director.
+All self-nominated prospective directors stand for a preliminary election by the membership.
+The board proposes a slate of new directors to be elected by the members at the annual meeting.
 
 1. **How many directors are there?** <br />
 There are currently **13 directors**.
 
 1. **How long do directors serve?** <br />
-Directors serve 2-year terms, which begin with the 4th quarter board meeting in the year of election. <br />
-They may stand for relection at the end of the term. <br />
-At this time there is no limit to the number of consecutive terms a director may serve.<br />
+Directors serve 2-year terms, which begin with the 4th quarter board meeting in the year of election.
+They may stand for relection at the end of the term.
+At this time there is no limit to the number of consecutive terms a director may serve.
 Directors' terms are staggered in two groups (5 directors and 8 directors).
+
+1. **What are the qualifications to serve?** <br />
+The By-Laws stipluate "Each director shall be at least 18 years of age, and shall be a member of the Corporation during his directorship."
+In addition, the board considers 
+commitment to the goals of NYPH as demonstrated through professional acts of leadership,
+contribution to NYPH or the passive house community,
+and
+statement of purpose.
+
+## Officers
+
+_The current By-Laws are somewhat muddled in the presentation of the officers. This will be clarified in 2022_
+
+1. Executive Director (Renamed from President in 2021)
+1. Chairman of the Board (Proposed to be renamed "Chairperson")
+1. Vice-President or Executive Vice President
+2. Secretary
+3. Treasurer
+
+[Duties of the officers](https://github.com/nypassivehouse/handbook/blob/main/by_laws_with_live_edits.md#article-iv---officers),
+with the curious exception of those of the Chair, are enumerated in the By-Laws.
 
 ## Committees of the board
 

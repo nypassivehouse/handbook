@@ -8,7 +8,7 @@
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />
 
 ~~~
-In the interest of promoting the transparency, accountability, and institutional efficacy,
+In the interest of promoting transparency, accountability, and institutional efficacy,
 the the Board shall:
 
 Make available to the public an on-line Handbook documenting the mission and processes
@@ -33,7 +33,7 @@ This Resolution shall take effect immediately.
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />
 
 ~~~
-In the interest of promoting the transparency, accountability, and institutional efficacy,
+In the interest of promoting transparency, accountability, and institutional efficacy,
 the the Board shall:
 
 Adopt a policy addressing the process of proposing, approving, and documenting

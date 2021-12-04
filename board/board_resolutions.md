@@ -60,9 +60,26 @@ This Resolution shall take effect January 1, 2022.
 
 ### 2021 Third Quarter
 
+No board resolutions. Minutes dated 9/15/2021.
+
 ### 2021 Second Quarter
 
+No board resolutions. Minutes dated 6/16/2021.
+
 ### 2021 First Quarter
+
+A Resolution on the matter of **board committees** <br />
+
+~~~
+Resolved: Effective March 17, 2021, the standing committees of the Board of Directors
+shall be the Executive Committee, Finance Committee, and Governance & Nominating
+Committee. All prior existing board committees are hereby dissolved. This action is in
+accordance with Article III (8) of the By-Laws of the corporation.
+~~~
+
+Motion to accept above resolution having been called by Caleb and seconded by Todd,
+above resolution was accepted with the assent of the majority of Directors present, by a
+unanimous voice vote with 0 nays and 0 abstentions. Minutes dated 3/17/21
 
 ## 2020
 

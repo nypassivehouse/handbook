@@ -8,7 +8,7 @@
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />
 
 ~~~
-In the interest of promoting transparency, accountability, and institutional efficacy,
+With the intent of promoting transparency, accountability, and institutional efficacy,
 the the Board shall:
 
 Make available to the public an on-line Handbook documenting the mission and processes
@@ -33,7 +33,7 @@ This Resolution shall take effect immediately.
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />
 
 ~~~
-In the interest of promoting transparency, accountability, and institutional efficacy,
+With the intent of promoting transparency, accountability, and institutional efficacy,
 the the Board shall:
 
 Adopt a policy addressing the process of proposing, approving, and documenting
@@ -56,6 +56,49 @@ board resolutions:
    and made available for review by the membership via the Handbook.
 
 This Resolution shall take effect January 1, 2022.
+~~~
+
+3.  Resolution regarding **Election of Officers**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+With the intent of promoting transparency and facilitating smooth leadership transitions
+the the Board shall:
+
+Adopt a policy addressing the election of officers:
+
+1. Officers shall serve for a one-year term, not to exceed three consecutive terms.
+2. A serving officer who is eligible for and wishes to seek reelection shall indicate so to the 
+Governance and Nominations Committee (the Committee), by a deadline indicated by the Committee or on request.
+3. Any director who will have served at least one full year in office upon being seated as an officer
+may self-nominate for an officer position to the Committee, by a deadline indicated by the Committee or on request.
+4. Any Committee member who is also a candidate for office must recuse themselves from any meeting
+of the Committee where the election of officers is discussed.
+5. The Committee shall evaluate the candidates for office.
+5. The Committee shall establish a proposed slate of officers for presentation to the full board.
+6. The full board must vote to accept or reject the presented slate of officers.
+7. If the slate is rejected, the Committee must present for a vote a revised slate within 7 calendar days.
+8. Rejecting first slate may be by majority; rejecting a 2nd slate requires super-majority; 
+rejecting a third slate that is different from the prior slates requires unanimity.
+~~~
+
+4.  Resolutions regarding **membership of the Governance and Nominations Committee**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+Resolved: That no director may simulataneously serve on the Executive Committee and
+the Governance and Nominations Committee;
+
+This Resolution shall take effect January 1, 2022.
+
+Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
+whose election to the board must not have occured in the same year;
+That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
+and
+That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
+by a majority vote of all Committee members, which may be taken electronically.
+
+This Resolution shall take effect (prospectively) April 1, 2022.
 ~~~
 
 ### 2021 Third Quarter

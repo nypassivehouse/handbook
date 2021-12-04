@@ -95,7 +95,7 @@ Adopt a policy addressing the election of officers:
 2. A serving officer who is eligible for and wishes to seek reelection shall indicate so to the 
    Governance and Nominations Committee (the Committee), by a deadline indicated by the Committee or on request.
 3. Any director who will have served at least one full year in office upon being seated as an officer
-   may self-nominate for an officer position to the Committee, by a deadline indicated by the Committee or on request.
+   may self-nominate for an officer position to the Committee, on request or by a deadline indicated by the Committee.
 4. Any Committee member who is also a candidate for office must recuse themselves from any meeting
    of the Committee where the election of officers is discussed.
 5. The Committee shall evaluate the candidates for office.

@@ -103,44 +103,43 @@ Jose Sosa
 
 Alphabetic order by last name. 
 
-**This list is probably incomplete.** Please feel free to submit corrections.
+**This list is probably incomplete.** Please feel free to submit corrections.
 
-| First    | Last        | Term        |
-| -------- | ----------- | ----------- |
-| Lois     | Arena       | 2015 - 2019 |
-| Ulgur    | Aydin       | 2020 - 2022 |
-| Sara     | Bayer       | 2021 - 2023 |
-| Andreas  | Benzing     | 2015 - 2019 |
-| Michael  | Bobker      | 2019 - 2021 |
-| Kevin    | Brennan     | 2015 - 2017 |
-| Ryan     | Cattley     | 2018 - 2019 |
-| Caleb    | Crawford    | 2019 - 2021 |
-| Chris    | Diamond     | 2015 - 2017 |
-| Greg     | Duncan      | 2015 - 2017 |
-| Amy      | Failla      | 2018 - 2022 |
-| Luke     | Falk        | 2016 - 2018 |
-| Joann    | Gonchar     | 2020 - 2022 |
-| Thomas   | Harney      | 2019 - 2021 |
-| Philip   | Hayes       | 2018 - 2019 |
-| David    | Hepinstall  | 2015 - 2017 |
-| Bomee    | Jung        | 2020 - 2022 |
-| Todd     | Kimmel      | 2015 - 2021 |
-| Virginia | Kindred     | 2015 - 2017 |
-| George   | Kontaroudis | 2019 - 2023 |
-| Ken      | Levenson    | 2014 - 2019 |
-| David    | Levine      | 2018 - 2019 |
-| Corey    | McCormack   | 2021 - 2023 |
-| Buck     | Moorhead    | 2018 - 2022 |
-| Spencer  | Orkus       | 2020 - 2022 |
-| Asit     | Parikh      | 2015 - 2017 |
-| Carmel   | Pratt       | 2020 - 2022 |
-| Adam     | Romano      | 2016 - 2019 |
-| Roxanne  | Ryce Paul   | 2015 - 2019 |
-| Jane     | Sanders     | 2021 - 2023 |
-| Jeremy   | Shannon     | 2014 - 2019 |
-| Rezwan   | Sharif      | 2015 - 2017 |
-| Oleg     | Slivinsky   | 2015 - 2017 |
-| Jose     | Sosa        | 2021 - 2023 |
-| Shawn    | Torbert     | 2014 - 2015 |
-| Stas     | Zakrzewski  | 2015 - 2021 |
-
+| First    | Last        | From | To   |
+| -------- | ----------- | ---- | ---- |
+| Lois     | Arena       | 2015 | 2019 |
+| Ulgur    | Aydin       | 2020 | 2022 |
+| Sara     | Bayer       | 2021 | 2023 |
+| Andreas  | Benzing     | 2015 | 2019 |
+| Michael  | Bobker      | 2019 | 2021 |
+| Kevin    | Brennan     | 2015 | 2017 |
+| Ryan     | Cattley     | 2018 | 2019 |
+| Caleb    | Crawford    | 2019 | 2021 |
+| Chris    | Diamond     | 2015 | 2017 |
+| Greg     | Duncan      | 2015 | 2017 |
+| Amy      | Failla      | 2018 | 2022 |
+| Luke     | Falk        | 2016 | 2018 |
+| Joann    | Gonchar     | 2020 | 2022 |
+| Thomas   | Harney      | 2019 | 2021 |
+| Philip   | Hayes       | 2018 | 2019 |
+| David    | Hepinstall  | 2015 | 2017 |
+| Bomee    | Jung        | 2020 | 2022 |
+| Todd     | Kimmel      | 2015 | 2022 |
+| Virginia | Kindred     | 2015 | 2017 |
+| George   | Kontaroudis | 2019 | 2023 |
+| Ken      | Levenson    | 2014 | 2019 |
+| David    | Levine      | 2018 | 2019 |
+| Corey    | McCormack   | 2021 | 2023 |
+| Buck     | Moorhead    | 2018 | 2022 |
+| Spencer  | Orkus       | 2020 | 2022 |
+| Asit     | Parikh      | 2015 | 2017 |
+| Carmel   | Pratt       | 2020 | 2022 |
+| Adam     | Romano      | 2016 | 2019 |
+| Roxanne  | Ryce Paul   | 2015 | 2019 |
+| Jane     | Sanders     | 2021 | 2023 |
+| Jeremy   | Shannon     | 2014 | 2019 |
+| Rezwan   | Sharif      | 2015 | 2017 |
+| Oleg     | Slivinsky   | 2015 | 2017 |
+| Jose     | Sosa        | 2021 | 2023 |
+| Shawn    | Torbert     | 2014 | 2015 |
+| Stas     | Zakrzewski  | 2015 | 2021 |

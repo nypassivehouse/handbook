@@ -35,7 +35,7 @@ This section will evolve as we discuss what to make public vs. keep private.
 
 #### Public Documents
 
-* [List of Board of Directors](./board_of_directors.md#current-and-past-directors) with their term(s) of service
+* [List of Board of Directors](./board/README.md#current-and-past-directors) with their term(s) of service
 * Current [Board Members bios](https://www.nypassivehouse.org/board-members-team/) are available on the NYPH website.
 * [NYPH's board member contract](link to come) summarizes the mutual responsibilities of the board and NYPH. 
 Each board member signs this contract on joining.

@@ -382,6 +382,12 @@ No minutes found.
 
 No board meeting minutes exist for 2011.
 
-## 2010 
+## 2010
+
+On December 5, 2010, it is recorded that the Board adopted a code of conduct. As reflected in the document itself: 
+~~~
+This board of directors code of conduct was adopted by the New York Passive House Inc.
+(NYPH) Board of Directors on December 5th , 2010.
+~~~
 
 New York Passive House Inc. registered as domestic not-for-profit corp. on JUNE 28, 2010.

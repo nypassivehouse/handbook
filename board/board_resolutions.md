@@ -173,23 +173,65 @@ No resolutions recorded.
 
 ### 2020 First Quarter
 
+No resolutions recorded.
+
 ## 2019 
+
 ### 2019 Fourth Quarter
+
+No resolutions recorded.
+
 ### 2019 Third Quarter
+
+No resolutions recorded.
+
 ### 2019 Second Quarter
+
+No resolutions recorded.
+
 ### 2019 First Quarter
 
+No resolutions recorded.
+
+
 ## 2018 
+
 ### 2018 Fourth Quarter
+
+No resolutions recorded.
+
 ### 2018 Third Quarter
+
+No resolutions recorded.
+
 ### 2018 Second Quarter
+No resolutions recorded.
+
 ### 2018 First Quarter
 
+No resolutions recorded.
+
 ## 2017 
+
 ### 2017 Fourth Quarter
-### 2017 Third Quarter
+
+No resolutions recorded.
+
+### 2017 Third Quarter\
+No resolutions recorded.
+
 ### 2017 Second Quarter
+
+Undated minutes:
+~~~
+Be it resolved that New York Passive House, as regional affiliate to NAPHN, has unanimously
+agreed to participate with the support and provision of CPHD trainings via the NAPHN Draft
+Proposal to Affiliates, dated April 22nd 2017.
+~~~
+
 ### 2017 First Quarter
+
+No resolutions recorded.
 
 ## 2016 
 ### 2016 Fourth Quarter

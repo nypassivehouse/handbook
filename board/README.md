@@ -32,9 +32,11 @@ The NYPH board holds the following additional responsibilties:
 
 ### More Resources
 
-- Boardable [Board Member Responsibilities & Roles: A Nonprofit’s Guide](https://boardable.com/blog/board-member-responsibilities/)
 - Office of the New York State Attorney General Charities Bureau
 [RIGHT FROM THE START: RESPONSIBILITIES of DIRECTORS of NOT-FOR-PROFIT CORPORATIONS](https://www.charitiesnys.com/pdfs/Right-From-the-Start.pdf)
+- BoardSource [Board Responsibilities and Structures — FAQs](https://boardsource.org/resources/board-responsibilities-structures-faqs/)
+- Boardable [Board Member Responsibilities & Roles: A Nonprofit’s Guide](https://boardable.com/blog/board-member-responsibilities/)
+- [THE 5 CORE RESPONSIBILITIES OF NONPROFIT BOARD MEMBERS](https://www.developmentguild.com/thought-leadership/5-core-responsibilities-nonprofit-board-members/)
 
 ## Serving on the Board of Directors
 

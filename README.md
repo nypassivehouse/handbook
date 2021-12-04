@@ -22,6 +22,9 @@ Living document means that it includes both static documentation of the past (mi
 and of information that will change over time.
 Version control enables [collaborative editing](https://en.wikipedia.org/wiki/Collaborative_editing).
 
+**To request changes** to this Handbook, [open an issue](https://github.com/nypassivehouse/handbook/issues).
+Please be as specific as you can in your notes, and please indicate whether you are an active NYPH member.
+
 ## Links and Documents
 
 ### By-Laws

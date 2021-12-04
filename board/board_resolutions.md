@@ -11,9 +11,9 @@ proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br
 With the intent of promoting transparency, accountability, and institutional efficacy,
 the the Board shall:
 
-Make available to the public an on-line Handbook documenting the mission and processes
-of NYPH and its Board of Directors, that the board shall endeavor to the best of its
-ability keep updated no less frequently than quarterly.
+Make available to the public an on-line Handbook, documenting the mission and processes
+of NYPH and its Board of Directors, that the board shall endeavor keep updated at all times
+to the best of its ability and no less frequently than quarterly.
 
 The Handbook shall be the primary and definitive record of the policies, procedures,
 and proceedings of the Board.

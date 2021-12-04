@@ -41,12 +41,22 @@ The NYPH board holds the following additional responsibilties:
 ## Serving on the Board of Directors
 
 1. **How do members become directors?** <br />
+
+Per a board resolution dated Sept. 16, 2020:
+~~~
+Board of Directors shall consist of [13] Directors of which up to [4] but in no event more than
+[30%] of Board members shall be nominated by the Nominating Committee of the Board of
+Directors and the balance of such Directors shall be elected annually for two year terms by a
+vote of NYPH’s members.
+~~~
 Prospective directors may self-nominate or be nominated by a current director.
-All self-nominated prospective directors stand for a preliminary election by the membership.
-The board proposes a slate of new directors to be elected by the members at the annual meeting.
+Elections by members have been conducted asynchronously online, where each member
+may cast votes for ??number?? candidates.
+The candidates receiving the most member votes are added to a proposed slate to be
+voted to be elected by the members at the annual meeting.
 
 1. **How many directors are there?** <br />
-There are currently **13 directors**.
+There are currently **13 directors**. _Per Sept. 16, 2020 board resolution_
 
 1. **How long do directors serve?** <br />
 Directors serve 2-year terms, which begin with the 4th quarter board meeting in the year of election.

@@ -23,7 +23,7 @@ A process for editing and adding to it by the members of NYPH shall be clearly a
 The Governance & Nomination Committee of the Board shall have primary oversight,
 The Committee may delegate to one or more ad-hoc working group of members formed for the purpose.
 
-Until such time as the board deems it necessary to adopt a different techology, that the 
+Until such time as the board deems it necessary to adopt a different technology, that the 
 Handbook shall be a public repository on GitHub: https://github.com/nypassivehouse/handbook
 
 This Resolution shall take effect immediately.

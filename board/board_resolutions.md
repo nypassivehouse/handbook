@@ -136,7 +136,7 @@ Resolution No. 1 is:
 Approved: Yes
 ~~~
 
-1. A Resolution clarifying **board nominations**:<br />
+2. A Resolution clarifying **board nominations**:<br />
 
 ~~~
 Resolution No. 2 – Board of Director Nomination Process:
@@ -266,7 +266,7 @@ Vote = Passed – document officially approved
 All resolutions should be entered and catalogued onto website 
 ~~~
 
-1. Resolution regarding **Affiliation with BEEx**: <br />
+2. Resolution regarding **Affiliation with BEEx**: <br />
 ~~~
 Vote = Passed – document officially approved with additional one-year reevaluation clause 
 Ten in favor; One opposed (Floris)
@@ -315,7 +315,7 @@ Resolution 1: To remove category of supporting membership from the bylaws. 7 vot
 to approve. 0 opposed. It was approved. By‐laws to be amended accordingly.
 ~~~
 
-1. A Resolution to **allow electronic voting for elections**:<br />
+2. A Resolution to **allow electronic voting for elections**:<br />
 ~~~
 Resolution 2: To conduct electronic voting for board member elections. 7 voted to
 approve. 0 opposed. It was approved.

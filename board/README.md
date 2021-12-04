@@ -60,9 +60,10 @@ There are currently **13 directors**. _Per Sept. 16, 2020 board resolution_
 
 1. **How long do directors serve?** <br />
 Directors serve 2-year terms, which begin with the 4th quarter board meeting in the year of election.
-They may stand for relection at the end of the term.
-At this time there is no limit to the number of consecutive terms a director may serve.
-Directors' terms are staggered in two groups (5 directors and 8 directors).
+Board service is limited to two consecutive terms for a maximum of (4) years.
+After (1) year, former members may once again run for a Board position.
+Directors' terms are staggered in two groups, so that about half step down or stand for reelection.
+These provisions are documented in a board Resolution adopted 6/12/2012 at the first meeting of the "expanded" 13-member board.
 
 1. **What are the qualifications to serve?** <br />
 The By-Laws stipluate "Each director shall be at least 18 years of age, and shall be a member of the Corporation during his directorship."

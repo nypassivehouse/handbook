@@ -101,7 +101,7 @@ creation
 
 ### 2020 Third Quarter
 
-1. A Resolution creating Executive Director position: <br />
+1. A Resolution creating **Executive Director position**: <br />
 
 ~~~
 Resolution No. 1 – Executive Director Position:
@@ -136,7 +136,7 @@ Resolution No. 1 is:
 Approved: Yes
 ~~~
 
-1. A Resolution clarifying **board nominations** <br />
+1. A Resolution clarifying **board nominations**:<br />
 
 ~~~
 Resolution No. 2 – Board of Director Nomination Process:
@@ -169,6 +169,66 @@ Approved: Yes
 
 ### 2020 Second Quarter
 
-### 2020 
+No resolutions recorded.
 
-[To Come]
+### 2020 First Quarter
+
+## 2019 
+### 2019 Fourth Quarter
+### 2019 Third Quarter
+### 2019 Second Quarter
+### 2019 First Quarter
+
+## 2018 
+### 2018 Fourth Quarter
+### 2018 Third Quarter
+### 2018 Second Quarter
+### 2018 First Quarter
+
+## 2017 
+### 2017 Fourth Quarter
+### 2017 Third Quarter
+### 2017 Second Quarter
+### 2017 First Quarter
+
+## 2016 
+### 2016 Fourth Quarter
+### 2016 Third Quarter
+### 2016 Second Quarter
+### 2016 First Quarter
+
+## 2015 
+### 2015 Fourth Quarter
+### 2015 Third Quarter
+### 2015 Second Quarter
+### 2015 First Quarter
+
+## 2014 
+### 2014 Fourth Quarter
+### 2014 Third Quarter
+### 2014 Second Quarter
+### 2014 First Quarter
+
+## 2013 
+### 2013 Fourth Quarter
+### 2013 Third Quarter
+### 2013 Second Quarter
+### 2013 First Quarter
+
+## 2012 
+### 2012 Fourth Quarter
+### 2012 Third Quarter
+### 2012 Second Quarter
+### 2012 First Quarter
+
+## 2011 
+### 2011 Fourth Quarter
+### 2011 Third Quarter
+### 2011 Second Quarter
+### 2011 First Quarter
+
+## 2010 
+### 2010 Fourth Quarter
+### 2010 Third Quarter
+### 2010 Second Quarter
+### 2010 First Quarter

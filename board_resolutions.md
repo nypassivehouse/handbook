@@ -2,7 +2,7 @@
 
 ## 2021
 
-### 2021 Fourth Quarter
+### 2021 Fourth Quarter (Proposed)
 
 1. A Resolution regarding **the creation of the NYPH Handbook**
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />

@@ -48,9 +48,11 @@ board resolutions:
    maybe established by count of votes cast (i.e., quorum does not need to be
    established prior to voting, but if an insufficient number of votes are cast,
    the vote may not be finalized).
-4. In the event that a quorum is not achieved, the Resolution shall be
-   added to the voting agenda of the next regularly scheduled board meeting.
-5. All proposed Resolutions, regardless of failure or passage, shall be recorded
+4. In the event that a quorum is not achieved within 5 calendar days, the Resolution
+   shall be added to the voting agenda of the next regularly scheduled board meeting.
+5. The Secretary shall record the the total number of votes cast, whether quorum
+   was achieved, the votes for, against, and abstaining, and vote outcome.
+6. All proposed Resolutions, regardless of failure or passage, shall be recorded
    and made available for review by the membership via the Handbook.
 
 This Resolution shall take effect January 1, 2022.

@@ -106,15 +106,10 @@ Regarding working groups, be it resolved that:
 These Resolutions shall take effect immediately.
 ~~~
 
-5.  Resolutions regarding **membership of the Governance and Nominations Committee**
+5.  Resolutions regarding **leadership of the Governance and Nominations Committee**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
-Resolved: That no director may simulataneously serve on the Executive Committee and
-the Governance and Nominations Committee;
-
-This Resolution shall take effect January 1, 2022.
-
 Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
 whose election to the board must not have occured in the same year;
 That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
@@ -145,8 +140,7 @@ Adopt a policy addressing the election of officers:
 6. The Committee shall establish a proposed slate of officers for presentation to the full board.
 7. The full board must vote to accept or reject the presented slate of officers.
 8. If the slate is rejected, the Committee must present for a vote a revised slate within 7 calendar days.
-9. Rejecting first slate may be by majority; rejecting a 2nd slate requires super-majority; 
-   rejecting a third slate that is different from the prior slates requires unanimity.
+9. Rejecting first slate may be by majority vote of a quorum; rejecting a 2nd slate requires 75% of the board.
 
 This Resolution shall take effect immediately.
 ~~~

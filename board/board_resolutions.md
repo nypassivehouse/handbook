@@ -58,7 +58,31 @@ board resolutions:
 This Resolution shall take effect January 1, 2022.
 ~~~
 
-3.  Resolutions regarding **Committees and Working Groups**
+3.  Resolutions regarding **Committee Membership and Attendance**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+In order to ensure a high-level of board engagement and leadership, 
+
+Resolved: That each board director shall:
+
+1. Serve on at least one board committee
+2. Participate in at least one standing working group, 
+   except for the Treasurer (who serves on both the Executive and Finance committees)
+3. Attend three of four quarterly board meetings in a calendar year;
+   shall not be absent without proxy for two consecutive quarterly meetings; and
+   shall not be absent without proxy more than 25% of all types of board meetings
+   including committee meetings.
+
+A director who finds themselves in violation of these requirements or anticipates
+being unable to meet these requirements shall notify the Governance and Nominations
+Committee with their anticipated date of resignation from the board, which shall
+be within 3 months of such notice.
+
+This Resolution shall take effect January 1, 2022.
+~~~
+
+4.  Resolutions regarding **Committees and Working Groups**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
@@ -82,7 +106,26 @@ Regarding working groups, be it resolved that:
 These Resolutions shall take effect immediately.
 ~~~
 
-4.  Resolution regarding **Election of Officers**
+5.  Resolutions regarding **membership of the Governance and Nominations Committee**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+Resolved: That no director may simulataneously serve on the Executive Committee and
+the Governance and Nominations Committee;
+
+This Resolution shall take effect January 1, 2022.
+
+Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
+whose election to the board must not have occured in the same year;
+That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
+and
+That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
+by a majority vote of all Committee members, which may be taken electronically.
+
+This Resolution shall take effect (prospectively) April 1, 2022.
+~~~
+
+6.  Resolution regarding **Election of Officers**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
@@ -106,49 +149,6 @@ Adopt a policy addressing the election of officers:
    rejecting a third slate that is different from the prior slates requires unanimity.
 
 This Resolution shall take effect immediately.
-~~~
-
-5.  Resolutions regarding **membership of the Governance and Nominations Committee**
-proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
-
-~~~
-Resolved: That no director may simulataneously serve on the Executive Committee and
-the Governance and Nominations Committee;
-
-This Resolution shall take effect January 1, 2022.
-
-Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
-whose election to the board must not have occured in the same year;
-That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
-and
-That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
-by a majority vote of all Committee members, which may be taken electronically.
-
-This Resolution shall take effect (prospectively) April 1, 2022.
-~~~
-
-6.  Resolutions regarding **Committee Membership and Attendance**
-proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
-
-~~~
-In order to ensure a high-level of board engagement and leadership, 
-
-Resolved: That each board director shall:
-
-1. Serve on at least one board committee
-2. Participate in at least one standing working group, 
-   except for the Treasurer (who serves on both the Executive and Finance committees)
-3. Attend three of four quarterly board meetings in a calendar year;
-   shall not be absent without proxy for two consecutive quarterly meetings; and
-   shall not be absent without proxy more than 25% of all types of board meetings
-   including committee meetings.
-
-A director who finds themselves in violation of these requirements or anticipates
-being unable to meet these requirements shall notify the Governance and Nominations
-Committee with their anticipated date of resignation from the board, which shall
-be within 3 months of such notice.
-
-This Resolution shall take effect January 1, 2022.
 ~~~
 
 ### 2021 Third Quarter

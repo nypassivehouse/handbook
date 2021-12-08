@@ -4,30 +4,18 @@
 
 ### 2022 First Quarter (Proposed)
 
-1.  Resolutions regarding **Committee Membership and Attendance**
+1.  Resolutions regarding **leadership of the Governance and Nominations Committee**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
-In order to ensure a high-level of board engagement and leadership, 
+Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
+whose election to the board must not have occured in the same year;
+That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
+and
+That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
+by a majority vote of all Committee members, which may be taken electronically.
 
-Resolved: That each board director shall:
-
-1. Serve on at least one board committee
-2. Participate, to the best of their ability, in at least one standing working group, 
-   except for the Treasurer (who serves on both the Executive and Finance committees)
-3. Attend three of four quarterly board meetings in a calendar year;
-   shall not be absent without proxy for two consecutive quarterly meetings; and
-   shall not be absent without proxy more than 25% of all types of board meetings
-   including committee meetings, but not including working group meetings.
-4. Board members shall have the right to delegate their voting priviledge to another
-   board member with or without explicit direction on specific voting matters.
-
-A director who finds themselves in violation of these requirements or anticipates
-being unable to meet these requirements shall notify the Governance and Nominations
-Committee with their anticipated date of resignation from the board, which shall
-be within 3 months of such notice.
-
-This Resolution shall take effect January 1, 2022.
+This Resolution shall take effect (prospectively) April 1, 2022.
 ~~~
 
 2.  Resolutions regarding **Committees and Working Groups**
@@ -54,19 +42,33 @@ Regarding working groups, be it resolved that:
 These Resolutions shall take effect immediately.
 ~~~
 
-3.  Resolutions regarding **leadership of the Governance and Nominations Committee**
+3.  Resolutions regarding **Committee Membership and Attendance**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
-Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
-whose election to the board must not have occured in the same year;
-That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
-and
-That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
-by a majority vote of all Committee members, which may be taken electronically.
+In order to ensure a high-level of board engagement and leadership, 
 
-This Resolution shall take effect (prospectively) April 1, 2022.
+Resolved: That each board director shall:
+
+1. Serve on at least one board committee
+2. Participate, to the best of their ability, in at least one standing working group, 
+   except for the Treasurer (who serves on both the Executive and Finance committees)
+3. Attend three of four quarterly board meetings in a calendar year;
+   shall not be absent without proxy for two consecutive quarterly meetings; and
+   shall not be absent without proxy more than 25% of all types of board meetings
+   including committee meetings, but not including working group meetings.
+4. Board members shall have the right to delegate their voting priviledge to another
+   board member with or without explicit direction on specific voting matters.
+
+A director who finds themselves in violation of these requirements or anticipates
+being unable to meet these requirements shall notify the Governance and Nominations
+Committee with their anticipated date of resignation from the board, which shall
+be within 3 months of such notice.
+
+This Resolution shall take effect January 1, 2022.
 ~~~
+
+
 
 ## 2021
 

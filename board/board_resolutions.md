@@ -1,8 +1,76 @@
 # Resolutions Proposed and/or Adopted by the Board of Directors
 
+## 2022
+
+### 2022 First Quarter (Proposed)
+
+1.  Resolutions regarding **Committee Membership and Attendance**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+In order to ensure a high-level of board engagement and leadership, 
+
+Resolved: That each board director shall:
+
+1. Serve on at least one board committee
+2. Participate, to the best of their ability, in at least one standing working group, 
+   except for the Treasurer (who serves on both the Executive and Finance committees)
+3. Attend three of four quarterly board meetings in a calendar year;
+   shall not be absent without proxy for two consecutive quarterly meetings; and
+   shall not be absent without proxy more than 25% of all types of board meetings
+   including committee meetings, but not including working group meetings.
+4. Board members shall have the right to delegate their voting priviledge to another
+   board member with or without explicit direction on specific voting matters.
+
+A director who finds themselves in violation of these requirements or anticipates
+being unable to meet these requirements shall notify the Governance and Nominations
+Committee with their anticipated date of resignation from the board, which shall
+be within 3 months of such notice.
+
+This Resolution shall take effect January 1, 2022.
+~~~
+
+2.  Resolutions regarding **Committees and Working Groups**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+Regarding board committee charters, be it resolved, that:
+1. The standing committees of the board shall adopt and maintain written commmittee charters;
+2. Each committee charter shall be reviewed and reaffirmed at the board meeting immediately 
+   following the annual meeting by a majority vote. A chater that is not reafirmed shall be revised
+   at the first meeting of the subject committee and presented for affirmation at the next board meeting.
+3. Each ad-hoc committee of the board shall be given a charter at the time of its creation.
+   
+Regarding working groups, be it resolved that:
+1. The board shall affirm or modify the standing working groups at its first meeting following the annual meeting.
+2. Standing working groups shall have two co-chairs, one of whom must be a board director.
+3. Any NYPH member in good standing may serve on a working group.
+4. Any NYPH member in good standing may request the creation of an ad-hoc working group by
+   writen request to the Executive Committee, which shall not unreasonably withold approval.
+5. Each standing and ad-hoc working group shall also adopt and maintain a committe charter.
+   The committee charters of standing committees shall be affirmed by a majority board vote
+   at the first board meeting following the first working group meeting.
+
+These Resolutions shall take effect immediately.
+~~~
+
+3.  Resolutions regarding **leadership of the Governance and Nominations Committee**
+proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
+
+~~~
+Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
+whose election to the board must not have occured in the same year;
+That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
+and
+That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
+by a majority vote of all Committee members, which may be taken electronically.
+
+This Resolution shall take effect (prospectively) April 1, 2022.
+~~~
+
 ## 2021
 
-### 2021 Fourth Quarter (Proposed)
+### 2021 Fourth Quarter
 
 1. A Resolution regarding **the creation of the NYPH Handbook**
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />
@@ -40,7 +108,7 @@ Adopt a policy addressing the process of proposing, approving, and documenting
 board resolutions:
 
 1. A proposed resolution shall be distributed in writing (via Slack, email, etc.)
-   no less than 10 calendar days prior to a vote by the board.
+   no less than 5 calendar days prior to a vote by the board.
 2. Resolutions may be voted on at a regular or special board meeting, or
    asynchronously via Slack, email, or any other documentable recorded means.
 3. Asynchronous voting shall adhere to the same quorum and voting rules as
@@ -50,77 +118,20 @@ board resolutions:
    the vote may not be finalized).
 4. In the event that a quorum is not achieved within 5 calendar days, the Resolution
    shall be added to the voting agenda of the next regularly scheduled board meeting.
-5. The Secretary shall record the the total number of votes cast, whether quorum
+5. Notwithstanding the forgoing, if a resolution is proposed, drafted, and moved 
+   during a board meeting, it may be adopted with a 3/4 vote.
+6. The Secretary shall record the the total number of votes cast, whether quorum
    was achieved, the votes for, against, and abstaining, and vote outcome.
-6. All proposed Resolutions, regardless of failure or passage, shall be recorded
+7. All proposed Resolutions, regardless of failure or passage, shall be recorded
    and made available for review by the membership via the Handbook.
+8. Within 90 days of this resolution, the board shall define the requirements 
+   for actions that require board Resolutions.
 
 This Resolution shall take effect January 1, 2022.
 ~~~
+Passed 12-8-21
 
-3.  Resolutions regarding **Committee Membership and Attendance**
-proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
-
-~~~
-In order to ensure a high-level of board engagement and leadership, 
-
-Resolved: That each board director shall:
-
-1. Serve on at least one board committee
-2. Participate in at least one standing working group, 
-   except for the Treasurer (who serves on both the Executive and Finance committees)
-3. Attend three of four quarterly board meetings in a calendar year;
-   shall not be absent without proxy for two consecutive quarterly meetings; and
-   shall not be absent without proxy more than 25% of all types of board meetings
-   including committee meetings.
-
-A director who finds themselves in violation of these requirements or anticipates
-being unable to meet these requirements shall notify the Governance and Nominations
-Committee with their anticipated date of resignation from the board, which shall
-be within 3 months of such notice.
-
-This Resolution shall take effect January 1, 2022.
-~~~
-
-4.  Resolutions regarding **Committees and Working Groups**
-proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
-
-~~~
-Regarding board committee charters, be it resolved, that:
-1. The standing committees of the board shall adopt and maintain written commmittee charters;
-2. Each committee charter shall be reviewed and reaffirmed at the board meeting immediately 
-   following the annual meeting by a majority vote. A chater that is not reafirmed shall be revised
-   at the first meeting of the subject committee and presented for affirmation at the next board meeting.
-3. Each ad-hoc committee of the board shall be given a charter at the time of its creation.
-   
-Regarding working groups, be it resolved that:
-1. The board shall affirm or modify the standing working groups at its first meeting following the annual meeting.
-2. Standing working groups shall have two co-chairs, one of whom must be a board director.
-3. Any NYPH member in good standing may serve on a working group.
-4. Any NYPH member in good standing may request the creation of an ad-hoc working group by
-   writen request to the Executive Committee, which shall not unreasonably withold approval.
-5. Each standing and ad-hoc working group shall also adopt and maintain a committe charter.
-   The committee charters of standing committees shall be affirmed by a majority board vote
-   at the first board meeting following the first working group meeting.
-
-These Resolutions shall take effect immediately.
-~~~
-
-5.  Resolutions regarding **leadership of the Governance and Nominations Committee**
-proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
-
-~~~
-Resolved: That the Governance and Nominations Committee shall have 2 Co-Chairs,
-whose election to the board must not have occured in the same year;
-That each Co-Chair shall serve for a 2-year term, not to exceed two consecutive terms;
-and
-That upon the vacancy of a Co-Chair, a new Co-Chair shall be elected by the Committee
-by a majority vote of all Committee members, which may be taken electronically.
-
-This Resolution shall take effect (prospectively) April 1, 2022.
-~~~
-
-6.  Resolution regarding **Election of Officers**
+3.  Resolution regarding **Election of Officers**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
 
 ~~~
@@ -136,14 +147,17 @@ Adopt a policy addressing the election of officers:
    on request or by a deadline indicated by the Committee.
 4. Any Committee member who is also a candidate for office must recuse themselves from any meeting
    of the Committee where the election of officers is discussed.
-5. The Committee shall evaluate the candidates for office.
-6. The Committee shall establish a proposed slate of officers for presentation to the full board.
-7. The full board must vote to accept or reject the presented slate of officers.
-8. If the slate is rejected, the Committee must present for a vote a revised slate within 7 calendar days.
-9. Rejecting first slate may be by majority vote of a quorum; rejecting a 2nd slate requires 75% of the board.
+5. Should the recusal of candidates result in fewer than 3 Committee members eligible to vote on the slate,
+   the recusal shall apply only to the specific candidate's contested position.
+6. The Committee shall evaluate the candidates for office.
+7. The Committee shall establish a proposed slate of officers for presentation to the full board.
+8. The full board must vote to accept or reject the presented slate of officers.
+9. If the slate is rejected, the Committee must present for a vote a revised slate within 7 calendar days.
+10. Rejecting first slate may be by majority vote of a quorum; rejecting a 2nd slate requires 75% of the board.
 
 This Resolution shall take effect immediately.
 ~~~
+Passed 12-8-21
 
 ### 2021 Third Quarter
 

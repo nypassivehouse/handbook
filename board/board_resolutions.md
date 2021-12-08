@@ -96,6 +96,7 @@ Handbook shall be a public repository on GitHub: https://github.com/nypassivehou
 
 This Resolution shall take effect immediately.
 ~~~
+Passed 12-8-2021
 
 2.  Resolution regarding **Recording the Resolutions of the Board**
 proposed by Bomee Jung, Co-Chair of the Governance and Nominations Committee <br />

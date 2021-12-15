@@ -25,7 +25,7 @@ proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominat
 Regarding board committee charters, be it resolved, that:
 1. The standing committees of the board shall adopt and maintain written commmittee charters;
 2. Each committee charter shall be reviewed and reaffirmed at the board meeting immediately 
-   following the annual meeting by a majority vote. A chater that is not reafirmed shall be revised
+   following the annual meeting by a majority vote. A charter that is not reafirmed shall be revised
    at the first meeting of the subject committee and presented for affirmation at the next board meeting.
 3. Each ad-hoc committee of the board shall be given a charter at the time of its creation.
    
@@ -33,9 +33,11 @@ Regarding working groups, be it resolved that:
 1. The board shall affirm or modify the standing working groups at its first meeting following the annual meeting.
 2. Standing working groups shall have two co-chairs, one of whom must be a board director.
 3. Any NYPH member in good standing may serve on a working group.
-4. Any NYPH member in good standing may request the creation of an ad-hoc working group by
+4. Working groups my not represent the organization as a whole or speak on behalf of the board of directors.
+For example, the Policy working group may publish as the NYPH policy working group, but not as "NYPH."
+5. Any NYPH member in good standing may request the creation of an ad-hoc working group by
    writen request to the Executive Committee, which shall not unreasonably withold approval.
-5. Each standing and ad-hoc working group shall also adopt and maintain a committe charter.
+6. Each standing and ad-hoc working group shall also adopt and maintain a committe charter.
    The committee charters of standing committees shall be affirmed by a majority board vote
    at the first board meeting following the first working group meeting.
 

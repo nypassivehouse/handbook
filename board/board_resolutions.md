@@ -35,9 +35,9 @@ Regarding working groups, be it resolved that:
 3. Any NYPH member in good standing may serve on a working group.
 4. Working groups my not represent the organization as a whole or speak on behalf of the board of directors.
 5. Any NYPH member in good standing may request the creation of an ad-hoc working group by
-   writen request to the Executive Committee, which shall not unreasonably withold approval.
+   writen request, including draft charter, to the Executive Committee, which shall not unreasonably withold approval.
 6. Each standing and ad-hoc working group shall also adopt and maintain a committe charter.
-   The committee charters of standing committees shall be affirmed by a majority board vote
+   The committee charters of standing working groups shall be affirmed by a majority board vote
    at the first board meeting following the first working group meeting.
 
 These Resolutions shall take effect immediately.

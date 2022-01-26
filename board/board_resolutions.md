@@ -2,7 +2,7 @@
 
 ## 2022
 
-### 2022 First Quarter (Proposed)
+### 2022 First Quarter (Approved 1/26/2022 Board Meeting)
 
 1.  Resolutions regarding **leadership of the Governance and Nominations Committee**
 proposed by Bomee Jung and Carmel Pratt, Co-Chairs of the Governance and Nominations Committee <br />
